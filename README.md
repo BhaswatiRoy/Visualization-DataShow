@@ -20,4 +20,11 @@ This app can be used to upload any clean dataset in csv format and then read the
 
 - The web application is built using python library -> Streamlit
 - The entire application is finally deployed on Streamlit Share Platform
-- See the deployed application [here] (https://share.streamlit.io/bhaswatiroy/visualization-datashow/main/app.py)
+- See the deployed application [here](https://share.streamlit.io/bhaswatiroy/visualization-datashow/main/app.py)
+
+## UI Of The Web Application
+
+### 1. Home Page
+<pre>
+<img src="![image](https://user-images.githubusercontent.com/78029145/163700926-c86ad398-8903-4ed6-987c-337eaf8bcc2c.png)" width="1010"> <img src="![image](https://user-images.githubusercontent.com/78029145/163700945-a06bc83f-f32e-4ec3-bdd5-2f6b2c9f7781.png)" width="1010">
+</pre>
