@@ -2,7 +2,7 @@
              Visualization-DataShow 📈📊📉
 </h1>
 
-![image](https://user-images.githubusercontent.com/78029145/163700575-095f2db4-494a-44cb-9beb-4844276e58bd.png)
+![image](https://user-images.githubusercontent.com/78029145/163700890-196af6cc-2824-421f-9be3-0c3556d403ae.png)
 
 ## Overview of the App
 
@@ -20,4 +20,4 @@ This app can be used to upload any clean dataset in csv format and then read the
 
 - The web application is built using python library -> Streamlit
 - The entire application is finally deployed on Streamlit Share Platform
-- See the deployed application
+- See the deployed application [here] (https://share.streamlit.io/bhaswatiroy/visualization-datashow/main/app.py)
