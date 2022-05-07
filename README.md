@@ -26,5 +26,5 @@ This app can be used to upload any clean dataset in csv format and then read the
 
 ### 1. Home Page
 <pre>
-<img src="![image](https://user-images.githubusercontent.com/78029145/163700926-c86ad398-8903-4ed6-987c-337eaf8bcc2c.png)" width="1010"> <img src="![image](https://user-images.githubusercontent.com/78029145/163700945-a06bc83f-f32e-4ec3-bdd5-2f6b2c9f7781.png)" width="1010">
+<img src="https://user-images.githubusercontent.com/78029145/163700926-c86ad398-8903-4ed6-987c-337eaf8bcc2c.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/163700945-a06bc83f-f32e-4ec3-bdd5-2f6b2c9f7781.png" width="1010">
 </pre>
