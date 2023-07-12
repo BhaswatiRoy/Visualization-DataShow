@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 
-st.title("EmHealth")
+st.title("Visualization DataShow")
 
 st.sidebar.header("Data Visualization Settings")
 
